@@ -20,7 +20,7 @@ help.start()
 help()
 help(ls)
 x=c(1.5,2,2.5)
-CÇÔ¼ö´Â ¸®½ºÆ®
+Cí•¨ìˆ˜ëŠ” ë¦¬ìŠ¤íŠ¸
 x
 help(c)
 x^2
@@ -148,7 +148,7 @@ x=1:3
 x=-3:3
 x<2
 sum(x<2)
-savehistory("2012_12255Á¤ÀçÈÆ")
+savehistory("2012_12255ì •ìž¬í›ˆ")
 e^1
 exp(1)
 x=0
@@ -165,4 +165,12 @@ x=seq(-2,2,0.4)
 f<-exp((-(x-u)^2)/2)/sqrt(2*pi)
 f
 max(f)
-savehistory("2012-12255_Á¤ÀçÈÆ")
+savehistory("2012-12255_ì •ìž¬í›ˆ")
+
+sdfasdfasdfadsfklwq;flnwq;lkqwnbq;elkgj
+q
+gqe;glkqg
+
+gs
+gsdg
+
